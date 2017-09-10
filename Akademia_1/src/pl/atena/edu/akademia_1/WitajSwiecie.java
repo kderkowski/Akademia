@@ -87,15 +87,15 @@ public class WitajSwiecie {
 		// System.out.println(n);
 
 		//konwersja
-		/**int i1 = 55;
-		double d1 = 2.14 + i1;
-		System.out.println(d1);
+		//int i1 = 55;
+		//double d1 = 2.14 + i1;
+		//System.out.println(d1);
 		//
-		char c1 = 'J' + 1;
-		System.out.println(c1);
+		//char c1 = 'J' + 1;
+		//System.out.println(c1);
 		//
-		int i2 = 'J' + 1;
-		System.out.println(i2);*/
+		//int i2 = 'J' + 1;
+		//System.out.println(i2);
 		
 		//
 		

@@ -1,6 +1,6 @@
 package pl.atena.edu.akademia_1;
 
-public class tablica {
+public class tablica2 {
 	public static void main(String[] args) {
 
 		// int auto[] = new int[10];
@@ -45,6 +45,19 @@ public class tablica {
 		// System.out.println(Arrays.toString(auto5));
 		// System.out.println(Arrays.toString(test));
 		// System.out.println(Arrays.toString(test1));
+
+		Integer[][] tab2 = new Integer[10][10];
+		for (int i = 0; i < 10; i++) {
+			for (int j = 0; j < 10; j++) {
+				if (i == j || i + j == 9) {
+					tab2[i][j] = 5;
+				} else {
+					tab2[i][j] = 0;
+				}
+				System.out.printf("%4d", tab2[i][j]);
+			}
+			System.out.println();
+		}
 	}
 }
 // }

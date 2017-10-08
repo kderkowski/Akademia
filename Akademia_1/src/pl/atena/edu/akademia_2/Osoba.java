@@ -1,4 +1,4 @@
-package pl.atena.edu.akademia_1;
+package pl.atena.edu.akademia_2;
 
 public class Osoba {
 	// konstruktor
